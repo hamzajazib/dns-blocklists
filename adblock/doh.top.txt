@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 27 Feb 2026 10:54 UTC
-! Version: 2026.0227.1054.53
+! Last modified: 28 Feb 2026 11:01 UTC
+! Version: 2026.0228.1101.33
 ! Syntax: AdBlock
-! Number of entries: 1125
+! Number of entries: 1126
 !
 ||003153.xyz^
 ||ns.00dani.me^
@@ -1004,6 +1004,7 @@
 ||dns.sv-zauner.at^
 ||dns.svoi.dev^
 ||dns.switch.ch^
+||dns-cache2.switch.ch^
 ||dns.sy.st^
 ||dns.syaifullah.com^
 ||ibksturm.synology.me^

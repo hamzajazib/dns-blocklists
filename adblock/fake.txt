@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 28 Feb 2026 03:36 UTC
-! Version: 2026.0228.0336.03
+! Last modified: 28 Feb 2026 09:35 UTC
+! Version: 2026.0228.0935.44
 ! Syntax: AdBlock
-! Number of entries: 14207
+! Number of entries: 14210
 !
 ||01broker.com^
 ||01crypto.com^
@@ -8477,6 +8477,7 @@
 ||mobel-welt.com^
 ||mobelimfreien.com^
 ||mobelmagie.com^
+||mobelonlineshop24.com^
 ||mobelprada-de.com^
 ||mobelsverkauf.com^
 ||mobelzauber.com^
@@ -8917,6 +8918,7 @@
 ||myzenistitch.com^
 ||nabenprada.com^
 ||nachhaltigeherrenmode.com^
+||nachhaltigewohndeko.com^
 ||nada-nada.com^
 ||naharbeiten.com^
 ||nailissimi.com^
@@ -13797,6 +13799,7 @@
 ||wildblumenparadies.de^
 ||wildflowercasesphilippines.com^
 ||wildlingch.com^
+||wildlingschuhede.com^
 ||wildlingshoes.cz^
 ||wildlingshoes-nl.com^
 ||wildlingshoesaustralia.com^

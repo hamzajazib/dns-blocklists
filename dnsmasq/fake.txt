@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 Feb 2026 03:36 UTC
-# Version: 2026.0228.0336.03
+# Last modified: 28 Feb 2026 09:35 UTC
+# Version: 2026.0228.0935.44
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14207
+# Number of entries: 14210
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -8476,6 +8476,7 @@ local=/mobefind-de.com/
 local=/mobel-welt.com/
 local=/mobelimfreien.com/
 local=/mobelmagie.com/
+local=/mobelonlineshop24.com/
 local=/mobelprada-de.com/
 local=/mobelsverkauf.com/
 local=/mobelzauber.com/
@@ -8916,6 +8917,7 @@ local=/mywonderfy.com/
 local=/myzenistitch.com/
 local=/nabenprada.com/
 local=/nachhaltigeherrenmode.com/
+local=/nachhaltigewohndeko.com/
 local=/nada-nada.com/
 local=/naharbeiten.com/
 local=/nailissimi.com/
@@ -13796,6 +13798,7 @@ local=/wildanimal.shop/
 local=/wildblumenparadies.de/
 local=/wildflowercasesphilippines.com/
 local=/wildlingch.com/
+local=/wildlingschuhede.com/
 local=/wildlingshoes.cz/
 local=/wildlingshoes-nl.com/
 local=/wildlingshoesaustralia.com/

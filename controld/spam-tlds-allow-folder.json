@@ -3760,6 +3760,13 @@
       }
     },
     {
+      "PK": "nuvioapp.space",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "nvidia.partners",
       "action": {
         "do": 1,

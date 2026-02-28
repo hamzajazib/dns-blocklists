@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 Feb 2026 03:33 UTC
-# Version: 2026.0228.0333.14
+# Last modified: 28 Feb 2026 09:32 UTC
+# Version: 2026.0228.0932.50
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 57505
+# Number of entries: 57504
 #
 local=/0.beer/
 local=/0.club/
@@ -14906,6 +14906,7 @@ local=/irishwhiskeyinvestments.co.uk/
 local=/isboost.co.jp/
 local=/www.jinailedit.co.uk/
 local=/join-slash.co.com/
+local=/kexornero.co.in/
 local=/kikon-match.co.jp/
 local=/www.littlelightjewellery.co.uk/
 local=/localsearch24.co.uk/
@@ -21809,11 +21810,7 @@ local=/fampeshail.net/
 local=/famsmdfn.net/
 local=/famtoaphoobo.com/
 local=/fanatics.bet/
-local=/avzrv.fancifuidates.net/
-local=/dqjvx.fancifuidates.net/
-local=/ekdnk.fancifuidates.net/
-local=/gzqqd.fancifuidates.net/
-local=/wjkda.fancifuidates.net/
+local=/fancifuidates.net/
 local=/bgqvxe.fancifuldates.net/
 local=/yvaod.fancifuldates.net/
 local=/argbq.fanclfuldates.com/
@@ -25644,6 +25641,7 @@ local=/grinchgulling.top/
 local=/grincircus.com/
 local=/grindcriticismpanic.com/
 local=/grindgoodwillcamouflage.com/
+local=/grindsteeplesprung.com/
 local=/grip.asia/
 local=/gripcares.com/
 local=/gripdownload.co/
@@ -53335,6 +53333,7 @@ local=/virelon.com/
 local=/virginityinvasion.com/
 local=/wv.virgosclavis.com/
 local=/rp.viridinpergola.com/
+local=/vironexta.com/
 local=/virsfeqtfhlnp.site/
 local=/virtrotech.com/
 local=/virtualbox.es/
