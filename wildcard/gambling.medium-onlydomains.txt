@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 Feb 2026 10:53 UTC
-# Version: 2026.0228.1053.11
+# Last modified: 28 Feb 2026 22:40 UTC
+# Version: 2026.0228.2240.09
 # Syntax: Domains (without subdomains)
-# Number of entries: 85077
+# Number of entries: 85065
 #
 0-bets.com
 0-bets.net
@@ -9650,7 +9650,6 @@ allbritishcasino.com
 allbritishcasino.dk
 allbritishcasino-uk.com
 allbritishcasinologin.org
-allbritishcasinologin.vip
 allbritishcasinonodeposit.click
 allcanadacasinos.com
 allcasino.click
@@ -10173,7 +10172,6 @@ anakslot.poker
 anaksurga.xyz
 anakto.top
 analphabetssics.info
-web.analysiscloud.info
 analyzecasino.com
 ananananda.store
 ananthwin.com
@@ -13053,7 +13051,6 @@ beachgame.shop
 beandreas.com
 beanooutdoorgame.com
 bear.poker
-beast.casino
 beastinocasino.com
 beastslots.click
 beatbox-casino.com
@@ -14053,7 +14050,6 @@ betamo.com
 betamo-casino.bet
 betamo-casino.nl
 betamocasino.cz
-betamocasinonodeposit.click
 betandplay.com
 betandplay1.com
 betandplay21.com
@@ -14930,7 +14926,6 @@ bets10-girisadresijack.vip
 bets10-girisadresimajor.com
 bets10-girismobil2026.com
 bets10-girisresmiadres.com
-bets10-girisyapjack.vip
 bets10-mobilgirisyap.vip
 bets10-resmiturkiyegirisadres.com
 bets10-turkiyeresmiadresgiris.com
@@ -16981,7 +16976,6 @@ blackjackenterprise.com
 blackjacketsymphony.com
 blackjackexpert.com
 blackjackexperts.com
-blackjackfuncasifreespins.click
 blackjackfuncasino.com
 blackjackfuncasinonodeposit.click
 blackjackgodscommunist11.sbs
@@ -20710,7 +20704,6 @@ casino-vip35.online
 casino-vip35.ru
 casino-vipzino.net
 casino-virtual.com
-casino-vodka.org
 casino-vodka.ru
 casino-vodka.top
 casino-vodka-best.top
@@ -35466,7 +35459,6 @@ fanaticsportsbets.com
 fanbets.co
 fancasinos.com
 fancasinos.org
-fancode.com
 fancy-reels.casino
 fancyslots2026.com
 fanday.net
@@ -36492,7 +36484,6 @@ fozbetshow.com
 fozbetss.com
 fpmaju.site
 fpscasino-uz.com
-fpyf8.com
 fr-alexander-casino.com
 fr-amon-casino.com
 fr-amoncasinos.com
@@ -38273,6 +38264,7 @@ gasbro138id.info
 gashinzo.com
 gashousebets.com
 gaslesscasino.com
+gasmahjong1.com
 gasnirwanapoker.beauty
 gasnirwanapoker.hair
 gasnirwanapoker.makeup
@@ -50513,9 +50505,7 @@ m123gatotkaca.store
 img.m156b.com
 m167cw.com
 m1casino.site
-aaa.m1cdn.com
-t1.m1cdn.com
-zzz.m1cdn.com
+m1cdn.com
 m1croch1pc.com
 m288ku.shop
 m288ku.store
@@ -57658,7 +57648,6 @@ omnislots.com
 omnislotscasifreespins.click
 omnislotscasinonodeposit.click
 omnislotsnl.shop
-collector-cps-live.omnitrend.biz
 omotogel2a.info
 omtogelonline.xyz
 omurakyotei.jp
@@ -67031,7 +67020,6 @@ republicannation.com
 republicanpost.net
 republik777.com
 research-ai.io
-resellerratings.com
 resenascasino.org
 resepsedap.xyz
 reservationsdesk.info
@@ -67203,7 +67191,6 @@ rev0lutslots.skin
 rev0lutslots.website
 revcomps.com
 reventandoculos.com
-revenuenetwork.com
 revers-beefcasino.top
 revery-play-casinouk.com
 reveryplay-casino.pl
@@ -78670,6 +78657,7 @@ unobet.info
 unocard.lol
 unocasino.hu
 unoslot88.org
+unrealities.com
 unrigthecourts.org
 unsurtoto4d.com
 untar4d.link

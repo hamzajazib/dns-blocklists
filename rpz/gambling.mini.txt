@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1772276040 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1772318460 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 28 Feb 2026 10:54 UTC
-; Version: 2026.0228.1054.35
+; Last modified: 28 Feb 2026 22:41 UTC
+; Version: 2026.0228.2241.45
 ; Syntax: RPZ
-; Number of entries: 81352
+; Number of entries: 81338
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -2716,8 +2716,6 @@ ninecasino-fr.biz CNAME .
 *.ninecasino-fr.biz CNAME .
 nova69.biz CNAME .
 *.nova69.biz CNAME .
-collector-cps-live.omnitrend.biz CNAME .
-*.collector-cps-live.omnitrend.biz CNAME .
 otthonimunka.biz CNAME .
 *.otthonimunka.biz CNAME .
 payplslots.biz CNAME .
@@ -6772,8 +6770,6 @@ bd222x.casino CNAME .
 *.bd222x.casino CNAME .
 bdmbet.casino CNAME .
 *.bdmbet.casino CNAME .
-beast.casino CNAME .
-*.beast.casino CNAME .
 beef.casino CNAME .
 *.beef.casino CNAME .
 beef-25.casino CNAME .
@@ -9774,8 +9770,6 @@ blackjack-us.click CNAME .
 *.blackjack-us.click CNAME .
 blackjackcasifreespins.click CNAME .
 *.blackjackcasifreespins.click CNAME .
-blackjackfuncasifreespins.click CNAME .
-*.blackjackfuncasifreespins.click CNAME .
 blackjackss.click CNAME .
 *.blackjackss.click CNAME .
 bodu88casifreespins.click CNAME .
@@ -25770,8 +25764,6 @@ sportsbook.fanatics.com CNAME .
 *.sportsbook.fanatics.com CNAME .
 fancasinos.com CNAME .
 *.fancasinos.com CNAME .
-fancode.com CNAME .
-*.fancode.com CNAME .
 fanduel.com CNAME .
 *.fanduel.com CNAME .
 fanfight.com CNAME .
@@ -26280,8 +26272,6 @@ foxygames.com CNAME .
 *.foxygames.com CNAME .
 fozbetshow.com CNAME .
 *.fozbetshow.com CNAME .
-fpyf8.com CNAME .
-*.fpyf8.com CNAME .
 fr-alexander-casino.com CNAME .
 *.fr-alexander-casino.com CNAME .
 fr-celsiuscasinofrance.com CNAME .
@@ -27074,6 +27064,8 @@ gashousebets.com CNAME .
 *.gashousebets.com CNAME .
 gaslesscasino.com CNAME .
 *.gaslesscasino.com CNAME .
+gasmahjong1.com CNAME .
+*.gasmahjong1.com CNAME .
 gasrajapoker.com CNAME .
 *.gasrajapoker.com CNAME .
 gate777.com CNAME .
@@ -32222,10 +32214,8 @@ img.m156b.com CNAME .
 *.img.m156b.com CNAME .
 m167cw.com CNAME .
 *.m167cw.com CNAME .
-aaa.m1cdn.com CNAME .
-*.aaa.m1cdn.com CNAME .
-t1.m1cdn.com CNAME .
-*.t1.m1cdn.com CNAME .
+m1cdn.com CNAME .
+*.m1cdn.com CNAME .
 m1croch1pc.com CNAME .
 *.m1croch1pc.com CNAME .
 m358th.com CNAME .
@@ -38806,8 +38796,6 @@ republicannation.com CNAME .
 *.republicannation.com CNAME .
 republik777.com CNAME .
 *.republik777.com CNAME .
-resellerratings.com CNAME .
-*.resellerratings.com CNAME .
 resortscasino.com CNAME .
 *.resortscasino.com CNAME .
 respin.com CNAME .
@@ -38840,8 +38828,6 @@ revcomps.com CNAME .
 *.revcomps.com CNAME .
 reventandoculos.com CNAME .
 *.reventandoculos.com CNAME .
-revenuenetwork.com CNAME .
-*.revenuenetwork.com CNAME .
 revery-play-casinouk.com CNAME .
 *.revery-play-casinouk.com CNAME .
 reveryplaycasinouk.com CNAME .
@@ -43832,6 +43818,8 @@ unlimluckcasinos-uk.com CNAME .
 *.unlimluckcasinos-uk.com CNAME .
 uno1bet.com CNAME .
 *.uno1bet.com CNAME .
+unrealities.com CNAME .
+*.unrealities.com CNAME .
 unsurtoto4d.com CNAME .
 *.unsurtoto4d.com CNAME .
 uoo77.com CNAME .
@@ -50350,8 +50338,6 @@ yukar.in CNAME .
 *.7bitcoincasino.info CNAME .
 a8kbets.info CNAME .
 *.a8kbets.info CNAME .
-web.analysiscloud.info CNAME .
-*.web.analysiscloud.info CNAME .
 anilyarki.info CNAME .
 *.anilyarki.info CNAME .
 askmebets.info CNAME .

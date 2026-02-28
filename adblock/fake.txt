@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 28 Feb 2026 09:35 UTC
-! Version: 2026.0228.0935.44
+! Last modified: 28 Feb 2026 21:32 UTC
+! Version: 2026.0228.2132.34
 ! Syntax: AdBlock
-! Number of entries: 14210
+! Number of entries: 14217
 !
 ||01broker.com^
 ||01crypto.com^
@@ -2048,6 +2048,7 @@
 ||capitaliko.com^
 ||capitalinvest-profit.org^
 ||capitalinvestmentreviews.com^
+||capitalisgroup.site^
 ||capitalnvst.com^
 ||capitalpilots.com^
 ||capitaltradefx.com^
@@ -2793,6 +2794,7 @@
 ||culture-chameleon.com^
 ||cultures-theater.com^
 ||cummari-tech.de^
+||cuongtws.xyz^
 ||cupliebe.com^
 ||curablity.com^
 ||at.curalise.com^
@@ -4369,6 +4371,7 @@
 ||figurenverkauf.com^
 ||figurinestoys.com^
 ||filamniceent.com^
+||fillamoda.com^
 ||fillethumn.com^
 ||fillinger.shop^
 ||filloutlet.com^
@@ -4384,6 +4387,7 @@
 ||financialbinary.com^
 ||financialexpressbank.com^
 ||financialfutures.net^
+||financiamas-cs.com^
 ||financiere-dainville.com^
 ||financiere-haussmann.com^
 ||financierehlc.com^
@@ -6352,6 +6356,7 @@
 ||imaginationh.com^
 ||imaginte.com^
 ||imalent.net^
+||imc-point.com^
 ||imcbroker.com^
 ||imens-meds.net^
 ||imfixies.de^
@@ -8726,6 +8731,7 @@
 ||multicoin-invest.com^
 ||multimaqcomercio.com^
 ||multione.net^
+||multitrim.shop^
 ||mulvanni.de^
 ||munbrand.com^
 ||mundinhoabc.com^
@@ -8752,6 +8758,7 @@
 ||muzam.de^
 ||muzenaudio.com^
 ||mvfahrrad.de^
+||hobyshoping.my.id^
 ||my-benovation.com^
 ||my-pawly.com^
 ||my-pills.biz^

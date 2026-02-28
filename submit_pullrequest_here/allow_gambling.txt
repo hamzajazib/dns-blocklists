@@ -69,6 +69,7 @@ clickadu.com
 coinmarketcap.zendesk.com
 coinpayments.net
 cointracking.info
+collector-cps-live.omnitrend.biz
 communities.win
 cricketweb.net
 csgo.net
@@ -85,12 +86,14 @@ engagelab.cc
 engagelab.com
 esports.net
 excelsior.com
+fancode.com
 fantasyfootball247.co.uk
 fatalmodel.com
 firebaseapp.com
 flro.org
 forexpros.com
 fpnpmcdn.net
+fpyf8.com
 gamcare.org.uk
 games.com
 goodgamestudios.com
@@ -131,6 +134,8 @@ powerlineblog.com
 primeopinion.com
 rebrand.ly
 reclameaqui.com.br
+resellerratings.com
+revenuenetwork.com
 skiblackjack.ca
 sotwe.com
 sport.es
@@ -147,6 +152,7 @@ tntsports.com.br
 tradestation.com
 vagaro.com
 vaultcord.win
+web.analysiscloud.info
 wetest.net
 win2k.org
 win32subsystem.live

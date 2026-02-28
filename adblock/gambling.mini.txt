@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 28 Feb 2026 10:54 UTC
-! Version: 2026.0228.1054.35
+! Last modified: 28 Feb 2026 22:41 UTC
+! Version: 2026.0228.2241.45
 ! Syntax: AdBlock
-! Number of entries: 40676
+! Number of entries: 40669
 !
 ||0-online-casino.us^
 ||000-online-casino.com^
@@ -4996,7 +4996,6 @@
 ||anadolucasino058.com^
 ||anakslot.poker^
 ||anaksurga.xyz^
-||web.analysiscloud.info^
 ||analyzecasino.com^
 ||ananthwin.com^
 ||anarchycasino.us^
@@ -6361,7 +6360,6 @@
 ||bdsm-shop-24.de^
 ||be-711casino.com^
 ||be63t.com^
-||beast.casino^
 ||beastinocasino.com^
 ||beatboxcasino.com^
 ||beatthelines.ag^
@@ -8405,7 +8403,6 @@
 ||blackjacketsymphony.com^
 ||blackjackexpert.com^
 ||blackjackexperts.com^
-||blackjackfuncasifreespins.click^
 ||blackjackfuncasino.com^
 ||blackjackgodscommunist11.sbs^
 ||blackjackhats.com^
@@ -17104,7 +17101,6 @@
 ||sportsbook.fanatics.com^
 ||fancasinos.com^
 ||fancasinos.org^
-||fancode.com^
 ||fancy-reels.casino^
 ||fanday.net^
 ||fanduel.com^
@@ -17570,7 +17566,6 @@
 ||foxygold-casino.se^
 ||foxygoldcasino-nl.nl^
 ||fozbetshow.com^
-||fpyf8.com^
 ||fr-alexander-casino.com^
 ||fr-celsiuscasinofrance.com^
 ||fr-divaspin-casino.com^
@@ -18507,6 +18502,7 @@
 ||gashinzo.com^
 ||gashousebets.com^
 ||gaslesscasino.com^
+||gasmahjong1.com^
 ||gaspukat.site^
 ||gasrajapoker.com^
 ||gaswd.site^
@@ -24441,8 +24437,7 @@
 ||img.m156b.com^
 ||m167cw.com^
 ||m1casino.site^
-||aaa.m1cdn.com^
-||t1.m1cdn.com^
+||m1cdn.com^
 ||m1croch1pc.com^
 ||m288ku.shop^
 ||m288ku.store^
@@ -27952,7 +27947,6 @@
 ||omnicasino.com^
 ||omnislots.com^
 ||omnislotscasifreespins.click^
-||collector-cps-live.omnitrend.biz^
 ||omurakyotei.jp^
 ||on-x167.casino^
 ||onabet.com^
@@ -32182,7 +32176,6 @@
 ||republicanpost.net^
 ||republik777.com^
 ||research-ai.io^
-||resellerratings.com^
 ||reservationsdesk.info^
 ||reserved.casino^
 ||resgatettk1.shop^
@@ -32314,7 +32307,6 @@
 ||reusspharmacy.com^
 ||revcomps.com^
 ||reventandoculos.com^
-||revenuenetwork.com^
 ||revery-play-casinouk.com^
 ||reveryplay-casino.pl^
 ||reveryplaycasinouk.com^
@@ -37629,6 +37621,7 @@
 ||unlimluckcasinos-uk.com^
 ||uno1bet.com^
 ||unoslot88.org^
+||unrealities.com^
 ||unsurtoto4d.com^
 ||uoo77.com^
 ||up7.xyz^
