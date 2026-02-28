@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Feb 2026 16:04 UTC
-# Version: 2026.0227.1604.55
+# Last modified: 28 Feb 2026 04:50 UTC
+# Version: 2026.0228.0450.09
 # Syntax: Domains (without subdomains)
-# Number of entries: 44354
+# Number of entries: 44348
 #
 0-online-casino.us
 000-online-casino.com
@@ -7794,7 +7794,6 @@ betplaycasinocanada.com
 betplaycasinoes.com
 betplays.com
 betplays-casino.net
-betplays-casino.pl
 betplayscasino.pl
 betplayscasinocanada.com
 betplayscasinonodeposit.click
@@ -10497,7 +10496,6 @@ casino-broceliande.com
 casino-bros.com
 casino-bruno.com
 casino-btc.best
-casino-builders.com
 casino-bwin.org
 casino-cafeteria.fr
 casino-camelbet.top
@@ -11102,7 +11100,6 @@ casino1x.cfd
 casino1xbit.net
 casino1xbit.org
 casino2.casino
-casino2.site
 casino2-19.click
 casino2-top.click
 casino20.online
@@ -11472,7 +11469,6 @@ casinobox24.com
 casinobrandnames.com
 casinobrandone.com
 casinobrango.com
-casinobrangofreespins.click
 casinobrangonodeposit.click
 casinobrend.com
 casinobritain.pro
@@ -11713,7 +11709,6 @@ casinoepik.org
 casinoepoca.com
 casinoepoca.org
 casinoepocafreespins.click
-casinoepocanodeposit.click
 casinoer-lab.com
 casinoerudenrofus-dk.dk
 casinoespacejeux.ca
@@ -16191,7 +16186,6 @@ crazybetcasino.ca
 crazybetcasinox.com
 crazybuzzer.de
 crazyfortunecasinonodeposit.click
-crazyfox-casino.com
 crazyfoxcasinonodeposit.click
 crazykingcasinonodeposit.click
 crazyluckcasino.com

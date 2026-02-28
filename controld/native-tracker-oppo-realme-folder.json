@@ -722,6 +722,20 @@
       }
     },
     {
+      "PK": "dcc-awareness-cn.heytapmobi.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "dc-dragate-cn.heytapmobi.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "dc.heytapmobile.com",
       "action": {
         "do": 0,

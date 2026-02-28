@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Feb 2026 04:45 UTC
-# Version: 2026.0227.0445.35
+# Last modified: 28 Feb 2026 04:50 UTC
+# Version: 2026.0228.0450.45
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11631
+# Number of entries: 11632
 #
 local=/tracker.guguan.000.pe/
 local=/003396815.xyz/
@@ -3791,6 +3791,7 @@ local=/flixtor.win/
 local=/flixwatch.site/
 local=/flixwave.me/
 local=/flixwave.to/
+local=/flixxcine.app/
 local=/flixy.org/
 local=/flmsdown.net/
 local=/ns1.floads.com/

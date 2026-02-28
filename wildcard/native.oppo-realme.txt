@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Feb 2026 09:48 UTC
-# Version: 2026.0227.0948.35
+# Last modified: 28 Feb 2026 00:22 UTC
+# Version: 2026.0228.0022.05
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 361
+# Number of entries: 363
 #
 *.calculator-api-fr.allawnos.com
 *.calculator-api-in.allawnos.com
@@ -249,6 +249,8 @@
 *.dragate-in.dc.heytapmobi.com
 *.dragate-sg.dc.heytapmobi.com
 *.obus-cn.dc.heytapmobi.com
+*.dc-dragate-cn.heytapmobi.com
+*.dcc-awareness-cn.heytapmobi.com
 *.api-id.game.heytapmobi.com
 *.iot-earbuds-cn.heytapmobi.com
 *.mdp-usertrace-cn.heytapmobi.com

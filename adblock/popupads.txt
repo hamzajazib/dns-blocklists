@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 27 Feb 2026 15:52 UTC
-! Version: 2026.0227.1552.53
+! Last modified: 28 Feb 2026 03:33 UTC
+! Version: 2026.0228.0333.14
 ! Syntax: AdBlock
-! Number of entries: 57503
+! Number of entries: 57505
 !
 ||0.beer^
 ||0.club^
@@ -8129,6 +8129,7 @@
 ||alphabird.com^
 ||alphadog.center^
 ||alphagodaddy.com^
+||alpharockone.com^
 ||alphashapes.org^
 ||alpheratzscheat.top^
 ||alphonso.tv^
@@ -13330,6 +13331,7 @@
 ||carbonads.com^
 ||carboncreditconsulting.ch^
 ||carbondistantemotions.com^
+||carbonfeverthink.com^
 ||carbonmedia.net^
 ||carbonrecallwesthouston.com^
 ||carcamerarig.com^

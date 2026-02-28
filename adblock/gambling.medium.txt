@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 27 Feb 2026 16:03 UTC
-! Version: 2026.0227.1603.24
+! Last modified: 28 Feb 2026 04:48 UTC
+! Version: 2026.0228.0448.57
 ! Syntax: AdBlock
-! Number of entries: 87811
+! Number of entries: 87792
 !
 ||0-bets.com^
 ||0-bets.net^
@@ -12883,7 +12883,6 @@
 ||bandao.online^
 ||bandaonline.casino^
 ||bandaosports-poker.com^
-||bandaplay.casino^
 ||bandar188login.com^
 ||bandar4dslot.org^
 ||bandar69-rtp.online^
@@ -13185,7 +13184,6 @@
 ||bayconticasino659.com^
 ||bayconticasino660.com^
 ||bayconticasino663.com^
-||bayconticasino665.com^
 ||bayconticasino667.com^
 ||bayconticasino671.com^
 ||bayconticasino672.com^
@@ -13546,7 +13544,6 @@
 ||beefcasino54.com^
 ||beefcasino55.com^
 ||beefcasino56.com^
-||beefcasino57.com^
 ||beefcasino58.com^
 ||beefcasino59.com^
 ||beefcasino60.com^
@@ -14817,7 +14814,6 @@
 ||betfred.com^
 ||betfred-casino-uk1.com^
 ||betfredaffiliates.com^
-||betfredcasino.live^
 ||betfredsports.com^
 ||betfun-casino.net^
 ||betfun24.com^
@@ -15257,7 +15253,6 @@
 ||betplaycasinoes.com^
 ||betplays.com^
 ||betplays-casino.net^
-||betplays-casino.pl^
 ||betplayscasino.pl^
 ||betplayscasino-canada.com^
 ||betplayscasinocanada.com^
@@ -15884,7 +15879,6 @@
 ||betsobet493.com^
 ||betsobetcasino.com^
 ||betsoccer.bet^
-||betsoccer99.com^
 ||betsoccerpredictions.com^
 ||betsocial.net^
 ||betsof.site^
@@ -16543,7 +16537,6 @@
 ||betzmarkcasino116.xyz^
 ||betzmarkcasino117.xyz^
 ||betzmarkcasino118.xyz^
-||betzmarkcasino119.xyz^
 ||betzmarkcasino120.xyz^
 ||betzo-casino.app^
 ||betzo-casino.click^
@@ -17630,7 +17623,6 @@
 ||comojogarpoker.blog.br^
 ||blog-casinos.net^
 ||blogabet-casino.pl^
-||blogcasinobet.com^
 ||blogdedemancasino.com^
 ||blogfb88.com^
 ||bloggersandfamily.com^
@@ -18159,7 +18151,6 @@
 ||booky-spinz.casino^
 ||bookyourukslots.com^
 ||bookyspinz.casino^
-||bookyspinz-casino.pl^
 ||bookyspinzcasino.com^
 ||bookyspinzcasino.fi^
 ||bookyspinzcasino.net^
@@ -20105,7 +20096,6 @@
 ||casino-brutal.nl^
 ||casino-bt.top^
 ||casino-btc.best^
-||casino-builders.com^
 ||casino-bwin.info^
 ||casino-bwin.org^
 ||casino-cafeteria.fr^
@@ -21583,7 +21573,6 @@
 ||casino1xbit.org^
 ||casino1xslots.bet^
 ||casino2.casino^
-||casino2.site^
 ||casino2-19.click^
 ||casino2-top.click^
 ||casino20.online^
@@ -22115,7 +22104,6 @@
 ||casinobetting.live^
 ||casinobetting12345.com^
 ||casinobettingapp.com^
-||casinobettingonline.net^
 ||casinobetway.org^
 ||casinobetwinner.net^
 ||casinobetzino.com^
@@ -22279,7 +22267,6 @@
 ||casinobrandnames.com^
 ||casinobrandone.com^
 ||casinobrango.com^
-||casinobrangofreespins.click^
 ||casinobrangonodeposit.click^
 ||casinobrasil.one^
 ||casinobrasildinheiroreal.online^
@@ -22774,7 +22761,6 @@
 ||casinoepoca.com^
 ||casinoepoca.org^
 ||casinoepocafreespins.click^
-||casinoepocanodeposit.click^
 ||casinoer-lab.com^
 ||casinoer-uden-rofus.bet^
 ||casinoer-uden-rofus.info^
@@ -23680,7 +23666,6 @@
 ||casinolevantqurv.vip^
 ||casinolevantramazan.org^
 ||casinolevants.org^
-||casinolevantsiqm.vip^
 ||casinolevantsongiris.xyz^
 ||casinolevantsopl.vip^
 ||casinolevantt.online^
@@ -26090,7 +26075,6 @@
 ||casinowatch.site^
 ||casinowatchguide.com^
 ||casinowatchnj.com^
-||casinowayfinding.com^
 ||casinowaypoint.com^
 ||casinoways.com^
 ||casinoways.pro^
@@ -31552,7 +31536,6 @@
 ||tt99casino.com.br^
 ||ttrrcasino.com.br^
 ||tuchance.com.ve^
-||twin-casino.com.de^
 ||u34casino.com.br^
 ||u555casino.com.br^
 ||ultrabet.com.au^
@@ -32062,7 +32045,6 @@
 ||crazydomino.net^
 ||crazyextreme888casino.com^
 ||crazyfortunecasinonodeposit.click^
-||crazyfox-casino.com^
 ||crazyfoxcasino.us^
 ||crazyfoxcasinoat.com^
 ||crazyfoxcasinoau.com^
@@ -32877,7 +32859,6 @@
 ||daddy79x.casino^
 ||daddy8002.casino^
 ||daddy814.casino^
-||daddycasino.shop^
 ||daddycasino.vip^
 ||daddycasino-072.top^
 ||daddycasino-075.top^

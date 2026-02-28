@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Feb 2026 16:04 UTC
-# Version: 2026.0227.1604.55
+# Last modified: 28 Feb 2026 04:50 UTC
+# Version: 2026.0228.0450.09
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 44354
+# Number of entries: 44348
 #
 local=/0-online-casino.us/
 local=/000-online-casino.com/
@@ -7794,7 +7794,6 @@ local=/betplaycasinocanada.com/
 local=/betplaycasinoes.com/
 local=/betplays.com/
 local=/betplays-casino.net/
-local=/betplays-casino.pl/
 local=/betplayscasino.pl/
 local=/betplayscasinocanada.com/
 local=/betplayscasinonodeposit.click/
@@ -10497,7 +10496,6 @@ local=/casino-broceliande.com/
 local=/casino-bros.com/
 local=/casino-bruno.com/
 local=/casino-btc.best/
-local=/casino-builders.com/
 local=/casino-bwin.org/
 local=/casino-cafeteria.fr/
 local=/casino-camelbet.top/
@@ -11102,7 +11100,6 @@ local=/casino1x.cfd/
 local=/casino1xbit.net/
 local=/casino1xbit.org/
 local=/casino2.casino/
-local=/casino2.site/
 local=/casino2-19.click/
 local=/casino2-top.click/
 local=/casino20.online/
@@ -11472,7 +11469,6 @@ local=/casinobox24.com/
 local=/casinobrandnames.com/
 local=/casinobrandone.com/
 local=/casinobrango.com/
-local=/casinobrangofreespins.click/
 local=/casinobrangonodeposit.click/
 local=/casinobrend.com/
 local=/casinobritain.pro/
@@ -11713,7 +11709,6 @@ local=/casinoepik.org/
 local=/casinoepoca.com/
 local=/casinoepoca.org/
 local=/casinoepocafreespins.click/
-local=/casinoepocanodeposit.click/
 local=/casinoer-lab.com/
 local=/casinoerudenrofus-dk.dk/
 local=/casinoespacejeux.ca/
@@ -16191,7 +16186,6 @@ local=/crazybetcasino.ca/
 local=/crazybetcasinox.com/
 local=/crazybuzzer.de/
 local=/crazyfortunecasinonodeposit.click/
-local=/crazyfox-casino.com/
 local=/crazyfoxcasinonodeposit.click/
 local=/crazykingcasinonodeposit.click/
 local=/crazyluckcasino.com/

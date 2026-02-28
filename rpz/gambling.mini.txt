@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1772208240 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1772254200 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 27 Feb 2026 16:04 UTC
-; Version: 2026.0227.1604.55
+; Last modified: 28 Feb 2026 04:50 UTC
+; Version: 2026.0228.0450.09
 ; Syntax: RPZ
-; Number of entries: 88708
+; Number of entries: 88696
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -11282,8 +11282,6 @@ casinobellocasifreespins.click CNAME .
 *.casinobellocasifreespins.click CNAME .
 casinobellocasinonodeposit.click CNAME .
 *.casinobellocasinonodeposit.click CNAME .
-casinobrangofreespins.click CNAME .
-*.casinobrangofreespins.click CNAME .
 casinobrangonodeposit.click CNAME .
 *.casinobrangonodeposit.click CNAME .
 casinobudfreespins.click CNAME .
@@ -11340,8 +11338,6 @@ casinoempirenodeposit.click CNAME .
 *.casinoempirenodeposit.click CNAME .
 casinoepocafreespins.click CNAME .
 *.casinoepocafreespins.click CNAME .
-casinoepocanodeposit.click CNAME .
-*.casinoepocanodeposit.click CNAME .
 casinoestrellafreespins.click CNAME .
 *.casinoestrellafreespins.click CNAME .
 casinoestrellanodeposit.click CNAME .
@@ -25456,8 +25452,6 @@ casino-bros.com CNAME .
 *.casino-bros.com CNAME .
 casino-bruno.com CNAME .
 *.casino-bruno.com CNAME .
-casino-builders.com CNAME .
-*.casino-builders.com CNAME .
 casino-cashed-fr.com CNAME .
 *.casino-cashed-fr.com CNAME .
 casino-charts.com CNAME .
@@ -28826,8 +28820,6 @@ crazybet.com CNAME .
 *.crazybet.com CNAME .
 crazybetcasinox.com CNAME .
 *.crazybetcasinox.com CNAME .
-crazyfox-casino.com CNAME .
-*.crazyfox-casino.com CNAME .
 crazyluckcasino.com CNAME .
 *.crazyluckcasino.com CNAME .
 crazyluckcasino-uk.com CNAME .
@@ -69146,8 +69138,6 @@ betoranjecasino.pl CNAME .
 *.betoranjecasino.pl CNAME .
 betpandacasino.pl CNAME .
 *.betpandacasino.pl CNAME .
-betplays-casino.pl CNAME .
-*.betplays-casino.pl CNAME .
 betplayscasino.pl CNAME .
 *.betplayscasino.pl CNAME .
 betsafe-polska.pl CNAME .
@@ -74546,8 +74536,6 @@ casino17.site CNAME .
 *.casino17.site CNAME .
 casino18.site CNAME .
 *.casino18.site CNAME .
-casino2.site CNAME .
-*.casino2.site CNAME .
 casino25.site CNAME .
 *.casino25.site CNAME .
 casino26.site CNAME .
